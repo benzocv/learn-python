@@ -86,3 +86,13 @@ print(a.split(",")) # returns ['Hello', ' World!']
 
 #more ref
 # https://www.w3schools.com/python/python_ref_string.asp
+
+
+
+# String Concatenation
+a = "Hello"
+b = "World"
+c = a + b
+print(c)
+
+
